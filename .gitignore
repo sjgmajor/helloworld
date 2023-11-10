@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+/bin/
+=======
+<<<<<<< HEAD
+## maven
+
+**/target/
+
+**/build/
+
+**/out
+
+##eclipse
+
+**/.settings
+
+**/.classpth
+
+**/.project
+=======
+/bin/
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
